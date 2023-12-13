@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p/test-plans/m/v2
+module github.com/chiangmaioneluv/go-libp2p/test-plans/m/v2
 
 go 1.20
 

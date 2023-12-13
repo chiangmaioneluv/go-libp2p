@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/libp2p/go-libp2p/core/canonicallog"
-	"github.com/libp2p/go-libp2p/core/network"
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/peerstore"
-	"github.com/libp2p/go-libp2p/core/transport"
+	"github.com/chiangmaioneluv/go-libp2p/core/canonicallog"
+	"github.com/chiangmaioneluv/go-libp2p/core/network"
+	"github.com/chiangmaioneluv/go-libp2p/core/peer"
+	"github.com/chiangmaioneluv/go-libp2p/core/peerstore"
+	"github.com/chiangmaioneluv/go-libp2p/core/transport"
 
 	ma "github.com/multiformats/go-multiaddr"
 	madns "github.com/multiformats/go-multiaddr-dns"

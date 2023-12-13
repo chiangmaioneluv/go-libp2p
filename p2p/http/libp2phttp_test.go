@@ -21,10 +21,10 @@ import (
 	"time"
 
 	"github.com/libp2p/go-libp2p"
-	host "github.com/libp2p/go-libp2p/core/host"
-	"github.com/libp2p/go-libp2p/core/peer"
-	libp2phttp "github.com/libp2p/go-libp2p/p2p/http"
-	httpping "github.com/libp2p/go-libp2p/p2p/http/ping"
+	host "github.com/chiangmaioneluv/go-libp2p/core/host"
+	"github.com/chiangmaioneluv/go-libp2p/core/peer"
+	libp2phttp "github.com/chiangmaioneluv/go-libp2p/p2p/http"
+	httpping "github.com/chiangmaioneluv/go-libp2p/p2p/http/ping"
 	ma "github.com/multiformats/go-multiaddr"
 	"github.com/stretchr/testify/require"
 )

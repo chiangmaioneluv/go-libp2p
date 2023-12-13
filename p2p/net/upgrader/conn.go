@@ -3,9 +3,9 @@ package upgrader
 import (
 	"fmt"
 
-	"github.com/libp2p/go-libp2p/core/network"
-	"github.com/libp2p/go-libp2p/core/protocol"
-	"github.com/libp2p/go-libp2p/core/transport"
+	"github.com/chiangmaioneluv/go-libp2p/core/network"
+	"github.com/chiangmaioneluv/go-libp2p/core/protocol"
+	"github.com/chiangmaioneluv/go-libp2p/core/transport"
 )
 
 type transportConn struct {

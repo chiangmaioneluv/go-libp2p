@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/libp2p/go-libp2p/core/peer"
-	"github.com/libp2p/go-libp2p/core/protocol"
+	"github.com/chiangmaioneluv/go-libp2p/core/peer"
+	"github.com/chiangmaioneluv/go-libp2p/core/protocol"
 
 	"github.com/libp2p/go-flow-metrics"
 

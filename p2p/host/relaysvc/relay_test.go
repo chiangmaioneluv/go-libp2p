@@ -4,12 +4,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/libp2p/go-libp2p/core/event"
-	"github.com/libp2p/go-libp2p/core/network"
-	bhost "github.com/libp2p/go-libp2p/p2p/host/blank"
-	"github.com/libp2p/go-libp2p/p2p/host/eventbus"
-	swarmt "github.com/libp2p/go-libp2p/p2p/net/swarm/testing"
-	relayv2 "github.com/libp2p/go-libp2p/p2p/protocol/circuitv2/relay"
+	"github.com/chiangmaioneluv/go-libp2p/core/event"
+	"github.com/chiangmaioneluv/go-libp2p/core/network"
+	bhost "github.com/chiangmaioneluv/go-libp2p/p2p/host/blank"
+	"github.com/chiangmaioneluv/go-libp2p/p2p/host/eventbus"
+	swarmt "github.com/chiangmaioneluv/go-libp2p/p2p/net/swarm/testing"
+	relayv2 "github.com/chiangmaioneluv/go-libp2p/p2p/protocol/circuitv2/relay"
 	"github.com/stretchr/testify/require"
 )
 
